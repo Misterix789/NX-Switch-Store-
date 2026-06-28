@@ -1,0 +1,12 @@
+{
+  "packages": [
+    {
+      "name": "Deltarune Cap 1-4 Español",
+      "author": "Creador de GBAtemp",
+      "category": "mods",
+      "version": "1.0.0",
+      "description": "Traducción completa al español para los capítulos 1 al 4 de Deltarune. Se instala automáticamente en la carpeta de Atmosphère.",
+      "url": "https://github.com/Misterix789/NX-Switch-Store-/releases/download/v1.0.0.0/DeltaruneESP.zip"
+    }
+  ]
+}
